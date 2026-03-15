@@ -55,6 +55,10 @@ for i in range(5):
 else:
     print("out of for loo")
 
+while i<7:
+    i +=1
+    print(i)
+
 '''Python control statement'''
 #1. break :Python break statement is used to terminate the current loop and resumes execution at the next statement, just like the traditional break statement in C.
 #2. continue: Python continue statement is used to skip the execution of the program block and returns the control to the beginning of the current loop to start the next iteration.
