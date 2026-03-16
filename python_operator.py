@@ -56,7 +56,7 @@ l = [10,20,'r',40,'p']
 print(f"is a present in list:{a in l} or if a not present in list:{a not in l}")
 
 # 7. identity operator
-'''Python identity operators compare the memory locations of two objects.
+'''Python identity operators compare the memory locations of two objects.These are very helpfull
 '''
 
 a = [1, 2, 3, 4, 5]
