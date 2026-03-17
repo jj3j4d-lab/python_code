@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Rahul",
+        "dob": "2002-05-10",
+        "marks": {
+            "physics": 85,
+            "chemistry": 78,
+            "math": 90
+        }
+    },
+    {
+        "name": "Amit",
+        "dob": "2001-08-21",
+        "marks": {
+            "physics": 88,
+            "chemistry": 82,
+            "math": 76
+        }
+    },
+    {
+        "name": "Neha",
+        "dob": "2003-01-15",
+        "marks": {
+            "physics": 92,
+            "chemistry": 89,
+            "math": 95
+        }
+    }
+]
