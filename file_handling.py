@@ -105,4 +105,4 @@ for item in contents:
 
 os.rmdir('/home/rahul/Documents/coding/Python/New_folder')
 
-################ ALL other types of inbuilt function should be read from tutorialsPoint"
+################ ALL other types of inbuilt function should be read from tutorialsPoint" Becuase the functions are too much 
