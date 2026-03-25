@@ -68,3 +68,8 @@ print(c)
 #1. using sort() but same it is for list
 # 2. using sorted functiomn as it accept array as argument
 # 3. using sorting algorithm
+
+arrrr = []
+for i in range(5):
+    arrrr.insert(i,i+1)
+print(arrrr)
