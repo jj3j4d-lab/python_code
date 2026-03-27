@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: my_python_package
+Version: 0.1
+Summary: Package setup script
+Home-page: #
+Author: anonymous
+Author-email: test@gmail.com
+License: MIT
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: license
+Dynamic: summary
