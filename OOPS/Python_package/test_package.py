@@ -1,0 +1,5 @@
+#testpackage.py
+from my_python_package import power, circle
+
+print ("Area of circle:", circle(5))
+print ("10 raised to 2:", power(10,2))

@@ -1,0 +1,9 @@
+setup.py
+my_python_package/__init__.py
+my_python_package/area_function.py
+my_python_package/math_function.py
+my_python_package.egg-info/PKG-INFO
+my_python_package.egg-info/SOURCES.txt
+my_python_package.egg-info/dependency_links.txt
+my_python_package.egg-info/not-zip-safe
+my_python_package.egg-info/top_level.txt
